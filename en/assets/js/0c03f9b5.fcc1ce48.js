@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkyfbdocument=globalThis.webpackChunkyfbdocument||[]).push([[2963],{3166:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/PublicDocument/en/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

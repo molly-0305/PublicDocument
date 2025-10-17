@@ -1,0 +1,1 @@
+(globalThis.webpackChunkyfbdocument=globalThis.webpackChunkyfbdocument||[]).push([[8577],{549:(b,c,s)=>{"use strict";s.d(c,{A:()=>a});var u=s(8291);s(6121)(u),s(8345)(u),s(6106)(u);const a=u},5741:()=>{}}]);
